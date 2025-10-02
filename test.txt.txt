@@ -1,1 +1,2 @@
-Repan Suki
+echo "Fauzan suki"
+print("Raja suka anak kecil")
